@@ -1,0 +1,114 @@
+body {
+  background-color: rgb(18, 16, 16);
+}
+
+#carouselExampleDark {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.container {
+  max-width: 1200px;
+  padding-top: 25px;
+  margin-left: 120px;
+  margin-right: 180px;
+}
+
+.container2 {
+  height: 520px;
+  width: 1000px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 240px;
+  margin-left: 250px;
+  display: flex;
+}
+
+.container3 {
+  height: 580px;
+  width: 1000px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  margin-right: 240px;
+  margin-left: 250px;
+  display: flex;
+}
+
+.username_div {
+  margin-left: 120px;
+  margin-right: 180px;
+}
+
+.box1 {
+  width: 35%;
+}
+
+.box2 {
+  flex-grow: 1
+}
+
+.form1 {
+  margin: 70px;
+}
+
+.r_box1 {
+  width: 38%;
+}
+
+.r_box2 {
+  flex-grow: 1
+}
+
+.form2 {
+  margin: 60px;
+}
+
+.w-100 {
+  width: 100% !important;
+  height: 100vh;
+}
+
+.fontcolor {
+  color: white;
+}
+
+.card {
+  background-color: grey;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.first-card {
+  margin-left: 250px;
+}
+
+.first-card1 {
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+hr {
+  border: 2px solid white;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.hr1 {
+  margin-left: 120px;
+  margin-right: 180px;
+}
+
+footer {
+  background-color: grey;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
